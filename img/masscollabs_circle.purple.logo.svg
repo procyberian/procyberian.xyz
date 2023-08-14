@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="100mm"
+   viewBox="0 0 100 100"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   sodipodi:docname="masscollabs_circle.purple.logo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     width="100mm"
+     inkscape:zoom="1"
+     inkscape:cx="412.5"
+     inkscape:cy="250.5"
+     inkscape:window-width="1320"
+     inkscape:window-height="704"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       d="m 51.823653,11.014495 c -22.55121,0 -40.82264,18.280269 -40.82264,40.842394 0,22.562128 18.27143,40.842398 40.82264,40.842398 22.55122,0 40.82265,-18.28027 40.82265,-40.842398 0,-22.562125 -18.27143,-40.842394 -40.82265,-40.842394 z m 0,73.779812 c -18.18912,0 -32.92148,-14.739495 -32.92148,-32.937418 0,-18.197923 14.73236,-32.937413 32.92148,-32.937413 18.18912,0 32.92149,14.73949 32.92149,32.937413 0,18.197923 -14.73237,32.937418 -32.92149,32.937418 z"
+       id="path49"
+       style="fill:#800080;stroke-width:0.164647" />
+  </g>
+</svg>
