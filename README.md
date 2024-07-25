@@ -1,6 +1,6 @@
-# masscollabs.xyz
+# Procyberian Systems Distribution Main Page
 
-https://www.procyberian.xyz Main Page
+https://www.procyberian.xyz Main Page which is a Wordpress instance...
 
 # License
 
