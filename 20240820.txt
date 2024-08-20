@@ -1,0 +1,19 @@
+PSD proje raporu
+
+Projede alpha(alfa) aşaması ya da diğer bir deyişle yeterli geribildirim toplama ve tartışma aşaması geride kaldı.
+
+2. aşama yani kaynakları inceleyip kamuya ya da diğer bir deyişle internete eğitim içeriği ve kod hizmeti sunulacaktır.
+
+3. aşama aslında 2. aşama ile beraber yürüyecek olan PSD Debian GNU/Linux ve PSD özgün işletim sistemi aşamasıdır.
+
+Bu aşama bizi 2. aşama'ya döndürecek ve 3. aşama tekrar edecektir.
+
+Bu böyle devam edecek.
+
+Teşekkürler, katkılarınızla var olduk, şimdi sıra bizim size katkı sunmamızda.
+
+Gül verenin elinde gül kokusu kalır.
+
+happy hacking !
+
+PSD 
